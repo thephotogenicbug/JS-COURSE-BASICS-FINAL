@@ -1,4 +1,5 @@
 // Make the name dynamic
+// declare a variable in JavaScript using var, let const keyword
 var fname = "Naveen"; // variable is a temporary location, your gonna declare variable name (fname) here
 
 // concatinate name in msg variable , merging two string is known as concatinate
