@@ -8,7 +8,7 @@
 */    
 
 
-
+// variable stores the data value that can be changed later on
 var msg = "Hello my name is Naveen i'm learning javascript" // variable is a temporary location 
 
 // Logging
