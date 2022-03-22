@@ -1,4 +1,6 @@
 // use square bracket [] to create an array by default it will be empty array
+// What is array in JavaScript with example
+// An array is an object that can store multiple values at once
 let favColors = ["red", "white", "black"]
 
 

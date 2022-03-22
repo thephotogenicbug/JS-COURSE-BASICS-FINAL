@@ -1,3 +1,7 @@
+// In JavaScript, an object is an unordered collection of key-value pairs. Each key-value pair is called a property.
+// The key of a property can be a string. And the value of a property can be any value, 
+// e.g., a string, a number, an array, and even a function.
+
 // Group of variables
 let name = "Naveen Kumar";
 let age = 25;
